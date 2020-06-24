@@ -17,10 +17,12 @@ categories:
 {{< mydiv4o text="youtube_lele_farley" link="/byauthor/91ddc7f783c8fc1c71842e0da0fea9f1/index.html">}}
 {{< mydiv4o text="youtube_memehongkong" link="/byauthor/13ce6cb5cf1c3b493ed1a5d1f0cec562/index.html">}}
 {{< mydiv4o text="youtube_ng_sam" link="/byauthor/8b24f016734104b815ccd1084f1e2c41/index.html">}}
+{{< mydiv4o text="youtube_-wen_zhao_official文昭談古論今" link="/byauthor/d230b28e7380498d93875751f812a91f/index.html">}}
 {{< mydiv4o text="youtube_個人意見獨立思考" link="/byauthor/278539d3e272f77cdd6676aa4bfa4f2d/index.html">}}
 {{< mydiv4o text="youtube_冬天的冬" link="/byauthor/3ac847590a7313aa488658c230ce2037/index.html">}}
 {{< mydiv4o text="youtube_城寨_singjai" link="/byauthor/137c0c40b21b8b71f099b0928484f5e7/index.html">}}
 {{< mydiv4o text="youtube_好雨知時節" link="/byauthor/37f3b9a2bd2fb7da5fcfa3572401a57a/index.html">}}
+{{< mydiv4o text="youtube_新唐人亞太電視台ntdaptv" link="/byauthor/58b671d272c14879c3b582290ddd068b/index.html">}}
 {{< mydiv4o text="youtube_江峰时刻" link="/byauthor/403522ffe91412865e1d8c19493426bc/index.html">}}
 {{< mydiv4o text="youtube_珍言真語_//_大紀元" link="/byauthor/23ac1eed043b009eac214f05797e5869/index.html">}}
 {{< mydiv4o text="youtube_香江望神州" link="/byauthor/235427816b04ea42b89e7b517d34ab41/index.html">}}
